@@ -9,7 +9,7 @@ $(document).ready(function () {
 
 	$.ajax({
 		type: "GET",
-		url: "http://localhost:8080/data", 
+		url: "http://localhost:80/data", 
 		success: function (data, status, xhr) {
             var html = template(JSON.parse(data));
 				// Render the posts into the page
