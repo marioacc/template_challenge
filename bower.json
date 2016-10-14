@@ -1,0 +1,23 @@
+{
+  "name": "base22_challenge",
+  "description": "",
+  "main": "build/index.html",
+  "authors": [
+    "marioacc in Github. Mail: mario.acc.15@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spectre.css": "^0.1.26",
+    "jquery": "^3.1.1",
+    "font-awesome": "^4.6.3",
+    "handlebars": "^4.0.5"
+  }
+}
